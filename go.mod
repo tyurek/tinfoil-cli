@@ -101,3 +101,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	software.sslmate.com/src/go-pkcs12 v0.6.0 // indirect
 )
+
+replace github.com/tinfoilsh/tinfoil-go => /home/ubuntu/tinfoil-go
